@@ -47,7 +47,8 @@ admin.site.register(Players,PlayerAdmin)
 
 ## OUTPUT
 
-![img](Screenshot%20(2).png)
+%![Screenshot (2)](https://github.com/kavisree86/ORM/assets/145759687/6f0a4a9b-1c43-44f8-be9d-d7e3c01691c3)
+20(2).png)
 Include the screenshot of your admin page.
 
 
